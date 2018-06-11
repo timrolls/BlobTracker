@@ -3,3 +3,5 @@ Includes boundary correction to visually define limits of 0-1 by drawing a 4 sid
 Sends resulting normalized location out over OSC.
 
 Made using a PointGrey FireFly camera. Might work with other cams, but hasn't been tested. 
+
+Use with https://github.com/timrolls/OSCDraw/ to create drawings with IR light.
